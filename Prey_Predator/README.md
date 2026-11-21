@@ -12,7 +12,7 @@ $$
 \frac{dy}{dt}=\delta xy-\gamma y
 $$
 
-Here, \(x\) and \(y\) represent prey and predator populations. The parameters \(\alpha\), \(\beta\), \(\delta\) and \(\gamma\) represent prey growth, predation, predator growth through predation and predator mortality.
+Here, \(x\) and \(y\) represent prey and predator populations. The parameters (\alpha\), (\beta\), \(\delta\) and \(\gamma\) represent prey growth, predation, predator growth through predation and predator mortality.
 
 For positive parameter values, the equilibrium points are \((0,0)\) and \((\gamma/\delta,\alpha/\beta)\).
 
